@@ -1,0 +1,10 @@
+{
+    "lang": "es",
+    "title": "Titulo Pagina",
+    "node-i18n-x test page": "Test de pagina con node-i18n-x",
+    "try these links:": "Pruebe estos enlaces:",
+    "default lang": "Lenguaje por defecto",
+    "manually set default lang": "Cambio manual de lenguaje",
+    "russian lang": "Russian localization",
+    "current locale:": ""
+}
