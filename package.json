@@ -1,13 +1,14 @@
 {
-  "name": "i18n_node",
+  "name": "i18n_node_example",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "leovafme",
+  "license": "MIT",
   "dependencies": {
     "cookie-parser": "^1.4.3",
     "express": "^4.16.2",
